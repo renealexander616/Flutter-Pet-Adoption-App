@@ -11,11 +11,6 @@ By this version, features include:
 
 - flutter pub get
 - flutter run
-  
-# More
-- Preview video: https://youtu.be/4CSpZXLTH2Y
-- Support my work: https://www.patreon.com/sangvaleap
-- Twitter:  https://twitter.com/sangvaleap
 
 <img width="600" alt="pet1" src="https://user-images.githubusercontent.com/86506519/151803963-bfd62a31-bd5e-4871-8b1a-af3c24d61e31.png">
 <img width="600" alt="pet2" src="https://user-images.githubusercontent.com/86506519/151803992-e1e1256e-c979-412b-975d-43dfb0eaf73e.png">
